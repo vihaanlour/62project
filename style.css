@@ -1,0 +1,35 @@
+#img2{
+    width: 250px;
+    height: 250px;
+}
+
+img1{
+      width: 315px;
+    height: 300px;
+}
+#bio {
+    padding: 50px;
+    text-align: center;
+    font-size: 42px;
+}
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+    background-color: yellow;
+}
+#myCarousel{
+    width:80%;
+}
+#myCarousel img{
+    height: 600px;
+}
+
+#contact {
+    background: white; 
+}
+#contact iframe {
+    width: 100%;
+}
